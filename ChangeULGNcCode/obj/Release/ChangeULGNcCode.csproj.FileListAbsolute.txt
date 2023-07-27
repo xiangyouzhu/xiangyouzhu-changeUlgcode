@@ -1,0 +1,9 @@
+I:\公司事务\自主研削机资料\上位机\ChangeULGNcCode\ChangeULGNcCode\bin\Release\ChangeULGNcCode.exe.config
+I:\公司事务\自主研削机资料\上位机\ChangeULGNcCode\ChangeULGNcCode\bin\Release\ChangeULGNcCode.exe
+I:\公司事务\自主研削机资料\上位机\ChangeULGNcCode\ChangeULGNcCode\bin\Release\ChangeULGNcCode.pdb
+I:\公司事务\自主研削机资料\上位机\ChangeULGNcCode\ChangeULGNcCode\obj\Release\ChangeULGNcCode.Form1.resources
+I:\公司事务\自主研削机资料\上位机\ChangeULGNcCode\ChangeULGNcCode\obj\Release\ChangeULGNcCode.Properties.Resources.resources
+I:\公司事务\自主研削机资料\上位机\ChangeULGNcCode\ChangeULGNcCode\obj\Release\ChangeULGNcCode.csproj.GenerateResource.Cache
+I:\公司事务\自主研削机资料\上位机\ChangeULGNcCode\ChangeULGNcCode\obj\Release\ChangeULGNcCode.exe
+I:\公司事务\自主研削机资料\上位机\ChangeULGNcCode\ChangeULGNcCode\obj\Release\ChangeULGNcCode.pdb
+I:\公司事务\自主研削机资料\上位机\ChangeULGNcCode\ChangeULGNcCode\obj\Release\ChangeULGNcCode.csprojResolveAssemblyReference.cache
